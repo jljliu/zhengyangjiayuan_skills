@@ -11,4 +11,4 @@ All skills are automatically packaged on every commit to `main`:
 ---
 
 ### Included Skills
-- **`zhengyang-video-copywriter`**: Video copy writing skill with viral script frameworks.
+- **`zhengyang-video-copywriter`**: Research-led product selection and video copywriting: confirm what the store sells, investigate and verify its qualities, then explain why those qualities matter in a natural shopping-advice voice.

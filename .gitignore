@@ -21,3 +21,6 @@ Temporary Items
 # Build artifacts
 dist/
 *.zip
+__pycache__/
+*.pyc
+.zhengyang-skill-updates/
